@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1506304479 source:c:\users\user\desktop\tp2resuelto\tp2\utn.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1506315981 source:c:\users\user\desktop\tp2resuelto\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1506299584 c:\users\user\desktop\tp2resuelto\tp2\utn.h
+
+1526166743 source:c:\users\user\desktop\laboratorio\2018\tp_2\tp2resuelto\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"utn.h"
+
+1506299586 c:\users\user\desktop\laboratorio\2018\tp_2\tp2resuelto\tp2\utn.h
+
+1526357481 source:c:\users\user\desktop\laboratorio\2018\tp_2\tp2resuelto\tp2\utn.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
